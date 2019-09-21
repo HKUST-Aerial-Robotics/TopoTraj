@@ -13,15 +13,15 @@ __Video__:
 
 <!-- add some gif of the paper video: -->
 <p align="center">
-  <img src="sim.gif" width = "335" height = "237"/>
-</p>
-
-<p align="center">
   <img src="indoor.gif" width = "420" height = "237"/>
 <!-- </p> -->
 
 <!-- <p align="center"> -->
   <img src="outdoor.gif" width = "420" height = "237"/>
+</p>
+
+<p align="center">
+  <img src="sim.gif" width = "335" height = "237"/>
 </p>
 
 

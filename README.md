@@ -17,11 +17,11 @@ __Video__:
 </p>
 
 <p align="center">
-  <img src="img/exp1.gif" width = "420" height = "237"/>
+  <img src="indoor.gif" width = "420" height = "237"/>
 <!-- </p> -->
 
 <!-- <p align="center"> -->
-  <img src="img/exp2.gif" width = "420" height = "237"/>
+  <img src="outdoor.gif" width = "420" height = "237"/>
 </p>
 
 

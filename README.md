@@ -13,7 +13,7 @@ __Video__:
 
 <!-- add some gif of the paper video: -->
 <p align="center">
-  <img src="sim.gif" width = "420" height = "237"/>
+  <img src="sim.gif" width = "335" height = "237"/>
 </p>
 
 <p align="center">

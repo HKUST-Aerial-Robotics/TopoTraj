@@ -9,20 +9,22 @@ __Authors__: [Boyu Zhou](http://boyuzhou.net), [Fei Gao](https://ustfei.com/) an
 __Related Paper__:
 - __Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths__, Boyu Zhou, Fei Gao, Jie Pan and Shaojie Shen, submitted to IEEE International Conference on Robotics and Automation (__ICRA__), 2020.
 
-__Video__:
+[__Video__](https://www.dropbox.com/sh/shw0k8v6ehxo4dr/AAAVD_2VR2GeR0gLuOK5WKdDa?dl=0):
+
+<p align="center">
+  <img src="files/sim.gif" width = "410" height = "300"/>
+</p>
 
 <!-- add some gif of the paper video: -->
 <p align="center">
-  <img src="indoor.gif" width = "420" height = "237"/>
+  <img src="files/indoor.gif" width = "420" height = "237"/>
 <!-- </p> -->
 
 <!-- <p align="center"> -->
-  <img src="outdoor.gif" width = "420" height = "237"/>
+  <img src="files/outdoor.gif" width = "420" height = "237"/>
 </p>
 
-<p align="center">
-  <img src="sim.gif" width = "335" height = "237"/>
-</p>
+
 
 
 
